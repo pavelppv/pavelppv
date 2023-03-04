@@ -7,6 +7,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&logoColor=white"></a>
 </div>
 
 <h3 align="center">Socials:</h3>
