@@ -1,7 +1,5 @@
 ![github-header](https://user-images.githubusercontent.com/51212505/222900339-b79ee082-9789-4050-8965-101156c972e5.jpg)
 
-<h1 align="center">Pavel Popov</h1>
-
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
