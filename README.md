@@ -16,4 +16,4 @@
 <h3 align="center">Socials:</h3>
 
 <div align="center">
-    <a href="https://t.me/paoloppv"><img src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="https://t.me/pvlppv"><img src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=white"></a>
