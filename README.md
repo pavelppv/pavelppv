@@ -17,6 +17,3 @@
 
 <div align="center">
     <a href="https://t.me/paoloppv"><img src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=white"></a>
-    <a href="https://instagram.com/paolo.ppv"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://vk.com/paoloppv"><img src="https://img.shields.io/badge/-VK-black?style=for-the-badge&logo=vk&logoColor=white"></a>
-</div>
