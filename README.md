@@ -11,6 +11,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-Pytorch-black?style=for-the-badge&logo=pytorch&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Tensorflow-black?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Aiogram-black?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white"></a>
 </div>
 
 <h3 align="center">Socials:</h3>
