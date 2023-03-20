@@ -1,6 +1,6 @@
 ![github-header](https://user-images.githubusercontent.com/51212505/222900339-b79ee082-9789-4050-8965-101156c972e5.jpg)
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Worked with:</h3>
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white"></a>
