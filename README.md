@@ -1,4 +1,4 @@
-![github-header](https://user-images.githubusercontent.com/51212505/222900339-b79ee082-9789-4050-8965-101156c972e5.jpg)
+![Pvlppv Pavel Popov 2](https://github.com/pvlppv/pvlppv/assets/51212505/a234e86b-3788-4028-9633-e8eac42bf24b)
 
 <h3 align="center">Worked with:</h3>
 
