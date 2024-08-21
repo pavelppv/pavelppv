@@ -15,9 +15,9 @@
   <a href="#"><img src="https://img.shields.io/badge/-FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Aiogram-black?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=vue.js&logoColor=white"></a>
 </div>
 
